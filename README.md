@@ -20,3 +20,4 @@ This shouldn't be thought of as an equivilant to a fully educational guide to le
 [Anonymously log in to an FTP server without credentials](https://github.com/Cipher-Visor/The-Red-Manual/blob/main/FTP_Anonymous_Login.md) <br>
 [Nmap port scanning a target that is unresponsive and gives little information](https://github.com/Cipher-Visor/The-Red-Manual/blob/main/Nmap_Scan_an_Unresponsive_Target.md) <br>
 [/robots.txt](https://github.com/Cipher-Visor/The-Red-Manual/blob/main/robots.txt.md) <br>
+[Gaining alternate access by naming an IP](https://github.com/Cipher-Visor/The-Red-Manual/blob/main/Gaining%20alternate%20access%20by%20naming%20an%20IP.md) <br>
