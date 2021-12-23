@@ -19,5 +19,5 @@ This shouldn't be thought of as an equivilant to a fully educational guide to le
 [Send a banner grab request to an HTTP website](https://github.com/Cipher-Visor/The-Red-Manual/blob/main/HTTP_Banner_Grab.md) <br>
 [Anonymously log in to an FTP server without credentials](https://github.com/Cipher-Visor/The-Red-Manual/blob/main/FTP_Anonymous_Login.md) <br>
 [Nmap port scanning a target that is unresponsive and gives little information](https://github.com/Cipher-Visor/The-Red-Manual/blob/main/Nmap_Scan_an_Unresponsive_Target.md) <br>
-[Viewing /robots.txt](https://github.com/Cipher-Visor/The-Red-Manual/blob/main/robots.txt.md) <br>
+[Viewing /robots.txt](https://github.com/Cipher-Visor/The-Red-Manual/blob/main/Viewing_robots.txt.md) <br>
 [Gaining special access to a site via naming an IP](https://github.com/Cipher-Visor/The-Red-Manual/blob/main/Gaining_special_access_to_a_site_via_naming_an_IP.md) <br>
