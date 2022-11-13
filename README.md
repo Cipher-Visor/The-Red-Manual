@@ -14,7 +14,6 @@ This shouldn't be thought of as an equivilant to a fully educational guide to le
 
 
 # Table of Contents
-###### NOTE: So far I only have recon
 ### Reconiassance
 [Send a banner grab request to an HTTP website](https://github.com/Cipher-Visor/The-Red-Manual/blob/main/HTTP_Banner_Grab.md) <br>
 [Anonymously log in to an FTP server without credentials](https://github.com/Cipher-Visor/The-Red-Manual/blob/main/FTP_Anonymous_Login.md) <br>
@@ -22,3 +21,6 @@ This shouldn't be thought of as an equivilant to a fully educational guide to le
 [Viewing /robots.txt](https://github.com/Cipher-Visor/The-Red-Manual/blob/main/Viewing_robots.txt.md) <br>
 [Gaining special access to a site via naming an IP](https://github.com/Cipher-Visor/The-Red-Manual/blob/main/Gaining_special_access_to_a_site_via_naming_an_IP.md) <br>
 [Check all ports with Nmap](https://github.com/Cipher-Visor/The-Red-Manual/blob/main/Check_all_ports_with_Nmap.md)
+
+### Forensics
+###### NOTE: Unsure how to categorize this. I was intending to format the sections according to the cyber kill chain. This is most similar to the post-exploitation process, I suppose.
